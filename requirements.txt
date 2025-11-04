@@ -1,0 +1,11 @@
+gradio
+faiss-cpu
+sentence-transformers
+torch
+crawl4ai
+requests
+python-docx
+python-pptx
+pandas
+PyMuPDF
+openpyxl
